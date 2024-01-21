@@ -1,4 +1,4 @@
-# Air-Quality-Index
+# Air Quality Index
 Scriptable **Air Quality Index** Widget, showing you the quality of the air
 
 ![](https://github.com/ElCoti/Air-Quality-Index/blob/5554812bcb7863bc6b7ec2c1b8a7434d37dd589d/AqiMockup.png)
