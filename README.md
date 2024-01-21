@@ -5,7 +5,7 @@ Scriptable **Air Quality Index** Widget, showing you the quality of the air
 
 # How to install
 1. Download Scriptable from the App Store.
-2. Download the Scriptable file from [here](https://github.com/ElCoti/Word-Of-The-Day/blob/378320ee76ed91260903148b0f2346454c3538c2/Word%20of%20the%20Day.js).
+2. Download the Scriptable file from [here](https://github.com/ElCoti/Air-Quality-Index/blob/9907d5a19c4575055e3b27c57776b58246180baf/AirQualityIndex.js).
 3. Once downloaded, click the Share button.
 4. Click on the Scriptable icon.
 5. Click on "Add to My Scripts".
